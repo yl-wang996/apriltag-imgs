@@ -13,3 +13,5 @@ Alternately, you can use the supplied native Python 3 script `tag_to_svg.py` to 
 ~~~
 python3 tag_to_svg.py tagStandard52h13/tag52_13_00007.png tag52_13_00007.svg --size=20mm
 ~~~
+
+****Notic**: If you use the generated pdf files(tag_36h11_percise_tag_pdf), my experience would be use Chrome pdf viewer and print it as image, set the print option as custom 106.**
