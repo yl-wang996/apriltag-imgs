@@ -2,7 +2,9 @@ AprilTag-imgs
 =============
 
 **!!! **Notic**: If you use the generated pdf files(tag_36h11_percise_tag_pdf), my experience would be use Chrome pdf viewer and print it as image, set the print scale as custom 106.**
+
 **!!! **Notic**: If you use the generated pdf files(tag_36h11_percise_tag_pdf), my experience would be use Chrome pdf viewer and print it as image, set the print scale as custom 106.**
+
 **!!! **Notic**: If you use the generated pdf files(tag_36h11_percise_tag_pdf), my experience would be use Chrome pdf viewer and print it as image, set the print scale as custom 106.**
 
 Images of all tags from all the pre-generated [AprilTag 3](https://github.com/AprilRobotics/apriltags) families. You can generate your own layouts or images of tags using our other repo, [AprilTag-generation](https://github.com/AprilRobotics/apriltag-generation).
